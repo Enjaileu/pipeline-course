@@ -8,3 +8,4 @@
 * [Awesome USD](https://github.com/matiascodesal/awesome-usd) - USD resources and projects (github)
 * [USD in Maya](https://www.autodesk.com/autodesk-university/class/House-Shelf-USD-production-Animal-Logic-2021#video) - Maya USD at Animal Logic (video, example files, 2021)
 * [USD in Houdini at Animal Logic Academy](https://www.youtube.com/watch?v=ulkJEPflgvk) - Overview with Mat Estela (video, 2020)
+* [Use USD in Houdini (playlist)](https://www.youtube.com/playlist?list=PLCWTAH7pGMWS6qOvpS7k_y1iaCZCmcK1S) - Adrien Lambert
